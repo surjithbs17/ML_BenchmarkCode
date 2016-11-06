@@ -9,5 +9,7 @@ The scope of this project is to implement the hand written code recognition usin
 
 # Platforms tested
 1.Janus Supercomputer https://www.rc.colorado.edu/resources/compute/janus
+
 2.NVIDIA Jetson (Embedded GPGPU)
+
 3.PC (Intel i7 3rd Generation)
